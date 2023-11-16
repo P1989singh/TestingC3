@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 this is a sit script files which is written in text for rds postgresql database
-=======
 
-this is a sit script files which is written in text for rds postgresql database.
-
->>>>>>> 3627f62ee740301b0738a62b82dbaf332557fe55

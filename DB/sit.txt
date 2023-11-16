@@ -1,1 +1,1 @@
-this is a sit script files which is written in text for rds postgresql database.
+this is a sit script files which is written in text for rds postgresql database
